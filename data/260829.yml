@@ -1,0 +1,59 @@
+about:
+  description: Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
+  license: MIT
+  homepage: 
+  head: f0de1d0
+  archived: false
+  latestVersion: v7.2.145
+  collectedAt: 2026-08-29T07:20:52Z
+timeline:
+  created: 2025-07-01
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 49095
+  watcher: 105
+  fork: 7549
+  release: 826
+  contributor: 220
+  pullRequest: 1301
+  issue: 2693
+language:
+  Go: 14022601
+  PowerShell: 2000
+  Shell: 1861
+  Dockerfile: 921
+totalLine: 14027383
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 36
+    mergedPR: 50
+    openPR: 142
+    closedIssue: 295
+    openIssue: 55
+    commit: 306
+  last90d:
+    since: 2026-05-31
+    release: 100
+    mergedPR: 175
+    openPR: 283
+    closedIssue: 792
+    openIssue: 67
+    commit: 842
+  last180d:
+    since: 2026-03-02
+    release: 100
+    mergedPR: 354
+    openPR: 408
+    closedIssue: 1683
+    openIssue: 74
+    commit: 1393
+  last360d:
+    since: 2025-09-03
+    release: 100
+    mergedPR: 706
+    openPR: 409
+    closedIssue: 2598
+    openIssue: 75
+    commit: 2743
