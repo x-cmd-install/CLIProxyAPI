@@ -1,59 +1,87 @@
 about:
-  description: Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
+  description:
+  |
+    Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
   license: MIT
   homepage: 
-  head: 2a6b87a
+  head: c77b136
   archived: false
-  latestVersion: v7.2.149
-  collectedAt: 2026-09-04T05:03:19Z
+  latestVersion: v7.2.150
+  collectedAt: 2026-09-04T19:57:00Z
 timeline:
   created: 2025-07-01
-  lastCommit: 2026-09-03
-  lastRelease: 2026-09-03
+  lastCommit: 2026-09-04
+  lastRelease: 2026-09-04
 popularity:
-  star: 50257
+  star: 50410
   watcher: 108
-  fork: 7663
-  release: 830
-  contributor: 220
-  pullRequest: 1368
-  issue: 2749
+  fork: 7680
+  release: 831
+  contributor: 223
+  pullRequest: 2104
+  issue: 2767
 language:
-  Go: 14998552
+  Go: 15338109
   PowerShell: 2000
   Shell: 1861
   Dockerfile: 921
-totalLine: 15003334
+totalBytes: 15342891
 recent:
   last30d:
     since: 2026-08-05
-    release: 30
-    mergedPR: 50
-    openPR: 174
-    closedIssue: 263
-    openIssue: 65
-    commit: 277
+    release: 31
+    mergedPR: 53
+    openPR: 181
+    closedIssue: 273
+    openIssue: 73
+    commit: 298
+  last60d:
+    since: 2026-07-06
+    release: 100
+    mergedPR: 120
+    openPR: 295
+    closedIssue: 629
+    openIssue: 83
+    commit: 658
   last90d:
     since: 2026-06-06
     release: 100
-    mergedPR: 176
-    openPR: 320
-    closedIssue: 794
-    openIssue: 75
-    commit: 867
+    mergedPR: 179
+    openPR: 327
+    closedIssue: 804
+    openIssue: 83
+    commit: 888
   last180d:
     since: 2026-03-08
     release: 100
-    mergedPR: 344
-    openPR: 450
-    closedIssue: 1679
-    openIssue: 84
-    commit: 1405
+    mergedPR: 347
+    openPR: 457
+    closedIssue: 1689
+    openIssue: 92
+    commit: 1426
   last360d:
     since: 2025-09-09
     release: 100
-    mergedPR: 709
-    openPR: 452
-    closedIssue: 2639
-    openIssue: 85
-    commit: 2768
+    mergedPR: 712
+    openPR: 459
+    closedIssue: 2649
+    openIssue: 93
+    commit: 2789
+  last720d:
+    since: 2024-09-14
+    release: 100
+    mergedPR: 722
+    openPR: 459
+    closedIssue: 2674
+    openIssue: 93
+    commit: 3656
+total:
+  release: 831
+  mergedPR: 722
+  openPR: 459
+  closedIssue: 2674
+  openIssue: 93
+  commit: 3656
+---
+---
+
