@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1094,
       "digest": "sha256:ef3c8901c8ecd63b9b8e893fe1046b439a9e5ac18e81055552157bd0a30e3b05",
-      "download_count": 708,
+      "download_count": 1299,
       "created_at": "2026-09-07T19:54:34Z",
       "updated_at": "2026-09-07T19:54:34Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.154/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 19901151,
       "digest": "sha256:90645a2d71bf7247e06b517757b498d0d0306afa9c48173aae7e2a230df2d546",
-      "download_count": 249,
+      "download_count": 481,
       "created_at": "2026-09-07T19:51:37Z",
       "updated_at": "2026-09-07T19:51:38Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.154/CLIProxyAPI_7.2.154_darwin_aarch64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 21530318,
       "digest": "sha256:62171996db7a9a2aa4ff00c68ba8255d7721790e34c6260f915631a9d44576e2",
-      "download_count": 54,
+      "download_count": 82,
       "created_at": "2026-09-07T19:52:11Z",
       "updated_at": "2026-09-07T19:52:12Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.154/CLIProxyAPI_7.2.154_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 19329132,
       "digest": "sha256:c90ec9e65cb543ad129dadbeee4098f6b8850a07581abc32feb27cf1117e131d",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-09-07T19:51:37Z",
       "updated_at": "2026-09-07T19:51:38Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.154/CLIProxyAPI_7.2.154_freebsd_aarch64_no-plugin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 21548699,
       "digest": "sha256:a23ac7c70d082c8fdaa900c5682fb0f6a7038ca135f7e9f56978886105962838",
-      "download_count": 16,
+      "download_count": 20,
       "created_at": "2026-09-07T19:52:09Z",
       "updated_at": "2026-09-07T19:52:09Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.154/CLIProxyAPI_7.2.154_freebsd_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 19464005,
       "digest": "sha256:3a0cd18d64e3b9990ca72136dbb1da97eedddade00ee6768e8b49fab1de6925e",
-      "download_count": 111,
+      "download_count": 164,
       "created_at": "2026-09-07T19:51:46Z",
       "updated_at": "2026-09-07T19:51:47Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.154/CLIProxyAPI_7.2.154_linux_aarch64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 19371931,
       "digest": "sha256:5c7b95db20d2b698f29afde9a3b9a9c3656cd28e7cac142947238924f7b61745",
-      "download_count": 20,
+      "download_count": 26,
       "created_at": "2026-09-07T19:51:43Z",
       "updated_at": "2026-09-07T19:51:44Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.154/CLIProxyAPI_7.2.154_linux_aarch64_no-plugin.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 21578431,
       "digest": "sha256:2a2256ceff048d5fa813aa54e8daa43e870b40e698d5cd21efad46e25aa5a1f9",
-      "download_count": 1015,
+      "download_count": 1854,
       "created_at": "2026-09-07T19:52:03Z",
       "updated_at": "2026-09-07T19:52:04Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.154/CLIProxyAPI_7.2.154_linux_amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 21486871,
       "digest": "sha256:4d37957af704457f52c589b029b9d4a50e1d94593ccbcb1340b832b68f11cf4e",
-      "download_count": 47,
+      "download_count": 75,
       "created_at": "2026-09-07T19:51:24Z",
       "updated_at": "2026-09-07T19:51:25Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.154/CLIProxyAPI_7.2.154_linux_amd64_no-plugin.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 19485604,
       "digest": "sha256:4d5166b256f13e814d087c98a8526ff42a5f83f63411025a679b31495a54cd19",
-      "download_count": 26,
+      "download_count": 70,
       "created_at": "2026-09-07T19:53:49Z",
       "updated_at": "2026-09-07T19:53:49Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.154/CLIProxyAPI_7.2.154_windows_aarch64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 21841546,
       "digest": "sha256:e50bd9362edb89d0816329f17372f00f1a68b8f72991cca41d39b4528c234563",
-      "download_count": 623,
+      "download_count": 1237,
       "created_at": "2026-09-07T19:52:35Z",
       "updated_at": "2026-09-07T19:52:36Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.154/CLIProxyAPI_7.2.154_windows_amd64.zip"
