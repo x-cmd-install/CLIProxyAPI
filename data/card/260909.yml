@@ -7,7 +7,7 @@ about:
   latestVersion: "v7.2.155"
   latestRelease: "v7.2.155"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T03:05:28Z
+  collectedAt: 2026-09-09T18:29:27Z
 timeline:
   created: 2025-07-01
   lastCommit: 2026-09-08
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
-  star: 51030
-  watcher: 108
-  fork: 7741
+  star: 51143
+  watcher: 109
+  fork: 7760
   release: 836
   contributor: 225
-  pullRequest: 2163
-  issue: 2834
+  pullRequest: 2198
+  issue: 2855
 language:
   Go: 16030213
   PowerShell: 2000
@@ -32,61 +32,61 @@ recent:
   last30d:
     since: 2026-08-10
     release: 28
-    mergedPR: 53
-    openPR: 203
-    closedIssue: 312
-    openIssue: 62
+    mergedPR: 54
+    openPR: 235
+    closedIssue: 316
+    openIssue: 79
     commit: 278
   last60d:
     since: 2026-07-11
     release: 90
-    mergedPR: 118
-    openPR: 313
-    closedIssue: 641
-    openIssue: 77
+    mergedPR: 119
+    openPR: 345
+    closedIssue: 645
+    openIssue: 94
     commit: 618
   last90d:
     since: 2026-06-11
     release: 100
-    mergedPR: 181
-    openPR: 350
-    closedIssue: 839
-    openIssue: 77
+    mergedPR: 182
+    openPR: 382
+    closedIssue: 843
+    openIssue: 94
     commit: 873
   last180d:
     since: 2026-03-13
     release: 100
-    mergedPR: 342
-    openPR: 488
-    closedIssue: 1696
-    openIssue: 85
+    mergedPR: 343
+    openPR: 520
+    closedIssue: 1700
+    openIssue: 102
     commit: 1441
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 718
-    openPR: 491
-    closedIssue: 2720
-    openIssue: 87
+    mergedPR: 719
+    openPR: 523
+    closedIssue: 2724
+    openIssue: 104
     commit: 2828
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 729
-    openPR: 491
-    closedIssue: 2747
-    openIssue: 87
+    mergedPR: 730
+    openPR: 523
+    closedIssue: 2751
+    openIssue: 104
     commit: 3718
 total:
   release: 836
-  mergedPR: 729
-  openPR: 491
-  closedIssue: 2747
-  openIssue: 87
+  mergedPR: 730
+  openPR: 523
+  closedIssue: 2751
+  openIssue: 104
   commit: 3718
 ---
 path: /home/runner/.x-repo/github.com/router-for-me/CLIProxyAPI
-collectedAt: 2026-09-09T03:05:33Z
+collectedAt: 2026-09-09T18:29:32Z
 loc:
   Go:
     code: 408397
