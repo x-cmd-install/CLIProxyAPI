@@ -19,34 +19,49 @@ x install CLIProxyAPI
 
 ## Release
 
-- **Latest**: `v7.2.156` (2026-09-10)
+- **Latest**: `v7.2.157` (2026-09-10)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 11
-- **Published**: 2026-09-10T02:41:41Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.157/checksums.txt) | 1.1 KiB | `other` |
+| [CLIProxyAPI_7.2.157_darwin_aarch64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.157/CLIProxyAPI_7.2.157_darwin_aarch64.tar.gz) | 19.0 MiB | `native/darwin/arm64` |
+| [CLIProxyAPI_7.2.157_darwin_amd64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.157/CLIProxyAPI_7.2.157_darwin_amd64.tar.gz) | 20.6 MiB | `native/darwin/x64` |
+| [CLIProxyAPI_7.2.157_freebsd_aarch64_no-plugin.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.157/CLIProxyAPI_7.2.157_freebsd_aarch64_no-plugin.tar.gz) | 18.5 MiB | `native/linux/arm64` |
+| [CLIProxyAPI_7.2.157_freebsd_amd64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.157/CLIProxyAPI_7.2.157_freebsd_amd64.tar.gz) | 20.6 MiB | `native/linux/x64` |
+| [CLIProxyAPI_7.2.157_linux_aarch64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.157/CLIProxyAPI_7.2.157_linux_aarch64.tar.gz) | 18.6 MiB | `native/linux/arm64` |
+| [CLIProxyAPI_7.2.157_linux_aarch64_no-plugin.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.157/CLIProxyAPI_7.2.157_linux_aarch64_no-plugin.tar.gz) | 18.5 MiB | `native/linux/arm64` |
+| [CLIProxyAPI_7.2.157_linux_amd64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.157/CLIProxyAPI_7.2.157_linux_amd64.tar.gz) | 20.6 MiB | `native/linux/x64` |
+| [CLIProxyAPI_7.2.157_linux_amd64_no-plugin.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.157/CLIProxyAPI_7.2.157_linux_amd64_no-plugin.tar.gz) | 20.6 MiB | `native/linux/x64` |
+| [CLIProxyAPI_7.2.157_windows_aarch64.zip](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.157/CLIProxyAPI_7.2.157_windows_aarch64.zip) | 18.7 MiB | `native/win/arm64` |
+| [CLIProxyAPI_7.2.157_windows_amd64.zip](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.157/CLIProxyAPI_7.2.157_windows_amd64.zip) | 20.9 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 51,175 · **Forks**: 7,762 · **Open issues**: 2,860 · **Contributors**: 225
+- **Stars**: 51,265 · **Forks**: 7,781 · **Open issues**: 2,863 · **Contributors**: 225
 
 ## Totals (cumulative)
 
-- **Releases**: 837 · **Merged PRs**: 730 · **Open PRs**: 523 · **Closed issues**: 2759 · **Open issues**: 101 · **Commits**: 3728
+- **Releases**: 838 · **Merged PRs**: 730 · **Open PRs**: 531 · **Closed issues**: 2771 · **Open issues**: 92 · **Commits**: 3736
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 28 | 50 | 232 | 311 | 75 | 287 |
-| 90d | 2026-06-12 | 100 | 178 | 382 | 844 | 91 | 882 |
-| 360d | 2025-09-15 | 100 | 719 | 523 | 2732 | 101 | 2837 |
+| 30d | 2026-08-11 | 29 | 50 | 240 | 323 | 66 | 295 |
+| 90d | 2026-06-12 | 100 | 178 | 390 | 856 | 82 | 890 |
+| 360d | 2025-09-15 | 100 | 719 | 531 | 2744 | 92 | 2845 |
 
 ## Code size
 
-Total: **424,128** lines of code across **1324** files in the top 5 languages.
+Total: **425,806** lines of code across **1326** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 413,942 | 18,273 | 40,370 | 1287 |
+| Go | 415,620 | 18,325 | 40,522 | 1289 |
 | Json | 5,035 | 0 | 1 | 6 |
 | C | 2,053 | 0 | 211 | 15 |
 | Rust | 1,992 | 0 | 193 | 15 |
@@ -57,8 +72,8 @@ Total: **424,128** lines of code across **1324** files in the top 5 languages.
 Install metadata for CLIProxyAPI lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `CLIProxyAPI` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/CLIProxyAPI.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/CLIProxyAPI.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:05:38Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:00:21Z._
