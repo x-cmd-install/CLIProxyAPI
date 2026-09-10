@@ -2,97 +2,97 @@ about:
   description: "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API"
   license: MIT
   homepage: 
-  head: 7fac6b1
+  head: d1a024e
   archived: false
-  latestVersion: "v7.2.155"
-  latestRelease: "v7.2.155"
+  latestVersion: "v7.2.156"
+  latestRelease: "v7.2.156"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T18:29:27Z
+  collectedAt: 2026-09-10T03:05:30Z
 timeline:
   created: 2025-07-01
-  lastCommit: 2026-09-08
-  lastVersion: 2026-09-08
-  lastRelease: 2026-09-08
+  lastCommit: 2026-09-10
+  lastVersion: 2026-09-10
+  lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 51143
+  star: 51175
   watcher: 109
-  fork: 7760
-  release: 836
+  fork: 7762
+  release: 837
   contributor: 225
-  pullRequest: 2198
-  issue: 2855
+  pullRequest: 2199
+  issue: 2860
 language:
-  Go: 16030213
+  Go: 16250361
   PowerShell: 2000
   Shell: 1861
   Dockerfile: 921
-totalBytes: 16034995
+totalBytes: 16255143
 recent:
   last30d:
-    since: 2026-08-10
+    since: 2026-08-11
     release: 28
-    mergedPR: 54
-    openPR: 235
-    closedIssue: 316
-    openIssue: 79
-    commit: 278
+    mergedPR: 50
+    openPR: 232
+    closedIssue: 311
+    openIssue: 75
+    commit: 287
   last60d:
-    since: 2026-07-11
-    release: 90
-    mergedPR: 119
-    openPR: 345
-    closedIssue: 645
-    openIssue: 94
-    commit: 618
+    since: 2026-07-12
+    release: 89
+    mergedPR: 116
+    openPR: 340
+    closedIssue: 642
+    openIssue: 91
+    commit: 627
   last90d:
-    since: 2026-06-11
+    since: 2026-06-12
     release: 100
-    mergedPR: 182
+    mergedPR: 178
     openPR: 382
-    closedIssue: 843
-    openIssue: 94
-    commit: 873
+    closedIssue: 844
+    openIssue: 91
+    commit: 882
   last180d:
-    since: 2026-03-13
+    since: 2026-03-14
     release: 100
-    mergedPR: 343
+    mergedPR: 338
     openPR: 520
-    closedIssue: 1700
-    openIssue: 102
-    commit: 1441
+    closedIssue: 1699
+    openIssue: 99
+    commit: 1450
   last360d:
-    since: 2025-09-14
+    since: 2025-09-15
     release: 100
     mergedPR: 719
     openPR: 523
-    closedIssue: 2724
-    openIssue: 104
-    commit: 2828
+    closedIssue: 2732
+    openIssue: 101
+    commit: 2837
   last720d:
-    since: 2024-09-19
+    since: 2024-09-20
     release: 100
     mergedPR: 730
     openPR: 523
-    closedIssue: 2751
-    openIssue: 104
-    commit: 3718
+    closedIssue: 2759
+    openIssue: 101
+    commit: 3728
 total:
-  release: 836
+  release: 837
   mergedPR: 730
   openPR: 523
-  closedIssue: 2751
-  openIssue: 104
-  commit: 3718
+  closedIssue: 2759
+  openIssue: 101
+  commit: 3728
 ---
 path: /home/runner/.x-repo/github.com/router-for-me/CLIProxyAPI
-collectedAt: 2026-09-09T18:29:32Z
+collectedAt: 2026-09-10T03:05:34Z
 loc:
   Go:
-    code: 408397
-    comments: 18051
-    blanks: 39780
-    files: 1275
+    code: 413942
+    comments: 18273
+    blanks: 40370
+    files: 1287
   Json:
     code: 5035
     comments: 0
@@ -114,8 +114,8 @@ loc:
     blanks: 46
     files: 1
   Yaml:
-    code: 134
-    comments: 742
+    code: 135
+    comments: 745
     blanks: 57
     files: 3
   CMake:
@@ -164,11 +164,11 @@ loc:
     blanks: 0
     files: 2
 total:
-  code: 418884
-  comments: 22122
-  blanks: 41025
-  files: 1371
+  code: 424430
+  comments: 22347
+  blanks: 41615
+  files: 1383
 ---
 
 ---
-{"id":384936848,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOPFM7E84W8auQ","tag_name":"v7.2.155","target_commitish":"main","name":"v7.2.155","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-08T17:33:09Z","updated_at":"2026-09-08T17:42:40Z","published_at":"2026-09-08T17:37:47Z","assets":[{"id":550982421,"node_id":"RA_kwDOPFM7E84g11MV","name":"checksums.txt","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"text/plain; charset=utf-8","state":"uploaded","size":1094,"digest":"sha256:53f5a0fee6cb7b8b1ad463ce6b8e450fb833e6033ee86cc38bb7f463ffcdf0f8","download_count":1935,"created_at":"2026-09-08T17:42:39Z","updated_at":"2026-09-08T17:42:40Z"},{"id":550978313,"node_id":"RA_kwDOPFM7E84g10MJ","name":"CLIProxyAPI_7.2.155_darwin_aarch64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":19921614,"digest":"sha256:f90c503ce41a798c85b6f61dfe5fe8b812c1b889634f0c80d04ee376424fe305","download_count":624,"created_at":"2026-09-08T17:40:05Z","updated_at":"2026-09-08T17:40:06Z"},{"id":550980400,"node_id":"RA_kwDOPFM7E84g10sw","name":"CLIProxyAPI_7.2.155_darwin_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":21553022,"digest":"sha256:198794a2fafb9fb8083476ac18232647c57d443422aa3f008d19ed7e75ca4604","download_count":107,"created_at":"2026-09-08T17:41:27Z","updated_at":"2026-09-08T17:41:29Z"},{"id":550977682,"node_id":"RA_kwDOPFM7E84g10CS","name":"CLIProxyAPI_7.2.155_freebsd_aarch64_no-plugin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":19354136,"digest":"sha256:4590c4131e3966697dd52cfd4537c4b3d7b2ed88c79562a87f5260abd71a11b2","download_count":21,"created_at":"2026-09-08T17:39:35Z","updated_at":"2026-09-08T17:39:37Z"},{"id":550977840,"node_id":"RA_kwDOPFM7E84g10Ew","name":"CLIProxyAPI_7.2.155_freebsd_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":21577692,"digest":"sha256:1a983bd8a5ba2d1c7b59caae0fff903497a3d14313db947055379ccadf6135f4","download_count":28,"created_at":"2026-09-08T17:39:42Z","updated_at":"2026-09-08T17:39:44Z"},{"id":550977737,"node_id":"RA_kwDOPFM7E84g10DJ","name":"CLIProxyAPI_7.2.155_linux_aarch64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":19486271,"digest":"sha256:bd5f6b705124e4af160b1d236e6739bbcd10b7c76d0c5dda96095ec19f38d5e7","download_count":208,"created_at":"2026-09-08T17:39:37Z","updated_at":"2026-09-08T17:39:38Z"},{"id":550977296,"node_id":"RA_kwDOPFM7E84g1z8Q","name":"CLIProxyAPI_7.2.155_linux_aarch64_no-plugin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":19400743,"digest":"sha256:ac1a8a38541cbdf4b83cb21e700e452340b31f76583d6effff97114259cc22a9","download_count":44,"created_at":"2026-09-08T17:39:19Z","updated_at":"2026-09-08T17:39:20Z"},{"id":550978253,"node_id":"RA_kwDOPFM7E84g10LN","name":"CLIProxyAPI_7.2.155_linux_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":21602658,"digest":"sha256:5eb8e1ab3f90aa22e4843d0c881f113d4e359a8cb3d3ec130a53e356060be730","download_count":2798,"created_at":"2026-09-08T17:40:02Z","updated_at":"2026-09-08T17:40:04Z"},{"id":550977382,"node_id":"RA_kwDOPFM7E84g1z9m","name":"CLIProxyAPI_7.2.155_linux_amd64_no-plugin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":21514090,"digest":"sha256:2e4d1280baf48cb9184eb9e95c92079848202bb2ab9c23341176e9a4eca88881","download_count":101,"created_at":"2026-09-08T17:39:24Z","updated_at":"2026-09-08T17:39:25Z"},{"id":550979695,"node_id":"RA_kwDOPFM7E84g10hv","name":"CLIProxyAPI_7.2.155_windows_aarch64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":19516375,"digest":"sha256:221846c698858b6967d767ab31099550f1b2f1bf431f142c2586a1033b81ca52","download_count":97,"created_at":"2026-09-08T17:41:02Z","updated_at":"2026-09-08T17:41:03Z"},{"id":550979005,"node_id":"RA_kwDOPFM7E84g10W9","name":"CLIProxyAPI_7.2.155_windows_amd64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":21869299,"digest":"sha256:b24d8f443c4cdc6229a6d1a769476328a3290512dd1f5f26a03c181c3e8e15b5","download_count":1654,"created_at":"2026-09-08T17:40:31Z","updated_at":"2026-09-08T17:40:32Z"}],"body":"<!-- cliproxyapi-linux-release-assets:start -->\n## Linux release assets\n\n- `CLIProxyAPI_<version>_linux_<arch>.tar.gz` is the default Linux build. It supports dynamic library plugins and is built against a GLIBC 2.17 baseline.\n- `CLIProxyAPI_<version>_linux_<arch>_no-plugin.tar.gz` is the portable Linux build for musl-based or older systems such as OpenWrt. It does not support dynamic library plugins.\n\n## FreeBSD release assets\n\n- `CLIProxyAPI_<version>_freebsd_aarch64_no-plugin.tar.gz` is the FreeBSD arm64 build. It is built without CGO and does not support dynamic library plugins.\n\n<!-- cliproxyapi-linux-release-assets:end -->\n\n## Changelog\n\n- fix(docs): remove Infistar.ai sponsorship details from README files (d198db54)\n- fix(claude): default function parameters for tools without input schema (6e1f9ec4)\n- fix(antigravity): normalize gemini responseJsonSchema to responseSchema (dc21a426)\n- fix(claude): align beta assembly and Haiku helper transport with the measured 2.1.258 (280b96ac)\n- fix(claude): attach helper request IDs according to the upstream base (35a47238)\n- feat(kimi): support openai responses api (d4146bde)\n- fix(antigravity): include resolved pool settings in transport cache key (68dd99d5)\n- fix(claude): enforce sequential content blocks for interleaved streaming tool calls (ef99119e)\n- fix(auth): cap refresh loop timer wait duration (48e5e9e0)\n- fix(claude): map codex reasoning tokens to thinking tokens (e365ab0c)\n- feat(session): enhance harness hierarchy recognition and deduplicate selector extraction (39058915)\n- feat(usage): normalize reported session hierarchy to canonical UUIDv8 (6b187e77)\n- fix(plugin-store): only check releases for installed update sources (1c9d7194)\n- fix(auth): strip monotonic clock reading from quota cooldown deadlines (1d5f7b2a)\n- fix(plugin-store): coalesce and throttle cached release checks (54b17ce8)\n- fix(plugin-store): honor shared GitHub API rate-limit cooldowns (8c0ad8cc)\n- feat(auth): export helper functions for headless antigravity oauth (20e3f731)\n- perf(antigravity): batch functionResponse name repairs (d8f2dcee)\n- fix(plugin-store): add network scope handling for shared GitHub API cooldowns (3639d924)\n- fix(api): skip access logging for health probes (e026cbf4)\n- fix(session): harden canonical UUIDv8 normalization for empty prefixes and context roots (1119ef14)\n- fix(logging): silence only successful health probes (a163c5e7)\n- Merge pull request #5625 from router-for-me/fix/issue-5608-plugin-store-rate-limit (f39702a2)\n- fix(gemini): normalize responses tool call outputs and resolve alternate call ids (d0bb908c)\n- Merge pull request #5626 from nichaoshou/fix/healthz-access-log (454452d5)\n- feat(plugin): preserve raw json in management responses on schema version 6 (c6327a86)\n- fix(gemini): reorder trailing text before function responses in user turns (4fde97f4)\n- fix(codex): strip schema dialect keywords from tool parameters (7fac6b15)\n\n\n## What's Changed\n* fix(claude): align beta assembly and helper transport with the measured 2.1.258 by @HYEONMIN94 in https://github.com/router-for-me/CLIProxyAPI/pull/5412\n* feat(session): enhance harness hierarchy recognition, deduplicate selector, and normalize usage to UUIDv8 by @sususu98 in https://github.com/router-for-me/CLIProxyAPI/pull/5622\n* perf(antigravity): batch functionResponse name repairs by @rome-xi in https://github.com/router-for-me/CLIProxyAPI/pull/5582\n* fix(plugin-store): reduce release checks and honor shared GitHub rate-limit cooldowns by @LTbinglingfeng in https://github.com/router-for-me/CLIProxyAPI/pull/5625\n* fix(logging): silence successful health probes while preserving errors by @nichaoshou in https://github.com/router-for-me/CLIProxyAPI/pull/5626\n\n## New Contributors\n* @HYEONMIN94 made their first contribution in https://github.com/router-for-me/CLIProxyAPI/pull/5412\n* @nichaoshou made their first contribution in https://github.com/router-for-me/CLIProxyAPI/pull/5626\n\n**Full Changelog**: https://github.com/router-for-me/CLIProxyAPI/compare/v7.2.154...v7.2.155\n","reactions":{"total_count":2,"+1":2,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0},"mentions_count":5}
+{"id":385969488,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOPFM7E84XAW1Q","tag_name":"v7.2.156","target_commitish":"main","name":"v7.2.156","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-10T02:40:53Z","updated_at":"2026-09-10T02:48:02Z","published_at":"2026-09-10T02:41:41Z","assets":[{"id":554082892,"node_id":"RA_kwDOPFM7E84hBqJM","name":"checksums.txt","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"text/plain; charset=utf-8","state":"uploaded","size":1094,"digest":"sha256:31b5a066c85e594cf2c2f32c5c1cf953a04985a2e590ce5beb4d8a5243050fc2","download_count":29,"created_at":"2026-09-10T02:48:02Z","updated_at":"2026-09-10T02:48:02Z"},{"id":554076010,"node_id":"RA_kwDOPFM7E84hBodq","name":"CLIProxyAPI_7.2.156_darwin_aarch64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":19962307,"digest":"sha256:c41f985edc744a70dc962ec4250889bad02bdd9be816855021d4d0d93ddf4c92","download_count":29,"created_at":"2026-09-10T02:43:14Z","updated_at":"2026-09-10T02:43:15Z"},{"id":554081146,"node_id":"RA_kwDOPFM7E84hBpt6","name":"CLIProxyAPI_7.2.156_darwin_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":21592745,"digest":"sha256:fe7c13292219b25f427015ef01e6d98649da1c97a6c4b59a2dbee3e540c2129f","download_count":5,"created_at":"2026-09-10T02:46:44Z","updated_at":"2026-09-10T02:46:45Z"},{"id":554075995,"node_id":"RA_kwDOPFM7E84hBodb","name":"CLIProxyAPI_7.2.156_freebsd_aarch64_no-plugin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":19390938,"digest":"sha256:4e65ac5a50d99f370cd4c6219854ecd97566570a5be89840f7f204b680fefdfd","download_count":10,"created_at":"2026-09-10T02:43:13Z","updated_at":"2026-09-10T02:43:14Z"},{"id":554076976,"node_id":"RA_kwDOPFM7E84hBosw","name":"CLIProxyAPI_7.2.156_freebsd_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":21620775,"digest":"sha256:1b2cb481f7a5c798222dd6db6c7e47875453de763631e47c64c584b166501a9f","download_count":6,"created_at":"2026-09-10T02:43:51Z","updated_at":"2026-09-10T02:43:52Z"},{"id":554076167,"node_id":"RA_kwDOPFM7E84hBogH","name":"CLIProxyAPI_7.2.156_linux_aarch64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":19522684,"digest":"sha256:c570113560838a1c401b566f34ea6f1fa1c00b7699e515fe1a3e82713459b2b2","download_count":17,"created_at":"2026-09-10T02:43:19Z","updated_at":"2026-09-10T02:43:20Z"},{"id":554076036,"node_id":"RA_kwDOPFM7E84hBoeE","name":"CLIProxyAPI_7.2.156_linux_aarch64_no-plugin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":19439620,"digest":"sha256:69e6ae02d1537c5e969af03404935315b48ff246fa0165bd06e6a4fe40db4532","download_count":8,"created_at":"2026-09-10T02:43:15Z","updated_at":"2026-09-10T02:43:16Z"},{"id":554077096,"node_id":"RA_kwDOPFM7E84hBouo","name":"CLIProxyAPI_7.2.156_linux_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":21639987,"digest":"sha256:2bf0515e70be3255be4bd13edb352febe7a206c2b823a6b49301d6f37ef40c85","download_count":58,"created_at":"2026-09-10T02:43:55Z","updated_at":"2026-09-10T02:44:01Z"},{"id":554075834,"node_id":"RA_kwDOPFM7E84hBoa6","name":"CLIProxyAPI_7.2.156_linux_amd64_no-plugin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":21552872,"digest":"sha256:c9fef36f298e41900324e7b580bb46eca83abf2979797ee907de74e215bae721","download_count":14,"created_at":"2026-09-10T02:43:07Z","updated_at":"2026-09-10T02:43:08Z"},{"id":554078284,"node_id":"RA_kwDOPFM7E84hBpBM","name":"CLIProxyAPI_7.2.156_windows_aarch64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":19554654,"digest":"sha256:026fd2488fbe9534413835004dd538db19f84ca5ecdd1dfa96263bd0afbc085e","download_count":3,"created_at":"2026-09-10T02:44:41Z","updated_at":"2026-09-10T02:44:42Z"},{"id":554077202,"node_id":"RA_kwDOPFM7E84hBowS","name":"CLIProxyAPI_7.2.156_windows_amd64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":21915165,"digest":"sha256:763f91711d0891d681763ec320b1c3d475642f6202bd45a9c7bf34ee59aa9d27","download_count":48,"created_at":"2026-09-10T02:43:59Z","updated_at":"2026-09-10T02:44:01Z"}],"body":"<!-- cliproxyapi-linux-release-assets:start -->\n## Linux release assets\n\n- `CLIProxyAPI_<version>_linux_<arch>.tar.gz` is the default Linux build. It supports dynamic library plugins and is built against a GLIBC 2.17 baseline.\n- `CLIProxyAPI_<version>_linux_<arch>_no-plugin.tar.gz` is the portable Linux build for musl-based or older systems such as OpenWrt. It does not support dynamic library plugins.\n\n## FreeBSD release assets\n\n- `CLIProxyAPI_<version>_freebsd_aarch64_no-plugin.tar.gz` is the FreeBSD arm64 build. It is built without CGO and does not support dynamic library plugins.\n\n<!-- cliproxyapi-linux-release-assets:end -->\n\n## Changelog\n\n- feat(plugin): add host session affinity lookup callback (0796d6d1)\n- fix(claude): emit trailing usage chunk and aggregate stream usage (a59b1764)\n- feat(codex): support model-level quota cooling (b064b832)\n- fix(translator): strip unsupported unicode property escape patterns from tool schemas (e56abd56)\n- fix(schema): inspect patternProperties keys and avoid Unicode escape fast-path bypass (37ce368c)\n- Merge pull request #5677 from sususu98/fix/codex-tool-schema-pattern (db011593)\n- feat(management): add endpoint to refresh auth files (60e5b8bd)\n- feat(auth): propagate canonical session id for custom header expansion (3bf787fc)\n- fix(auth): classify terminal upstream auth failures as non-retryable errors (aedc9e6a)\n- feat(codex): add support for gpt-image-2.5 models (d1a024e9)\n\n\n## What's Changed\n* fix(translator): strip unsupported unicode property escape patterns from tool schemas by @sususu98 in https://github.com/router-for-me/CLIProxyAPI/pull/5677\n\n\n**Full Changelog**: https://github.com/router-for-me/CLIProxyAPI/compare/v7.2.155...v7.2.156\n","mentions_count":1}

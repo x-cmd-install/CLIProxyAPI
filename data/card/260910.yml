@@ -1,0 +1,173 @@
+about:
+  description: "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API"
+  license: MIT
+  homepage: 
+  head: d1a024e
+  archived: false
+  latestVersion: "v7.2.156"
+  latestRelease: "v7.2.156"
+  latestPrerelease: ""
+  collectedAt: 2026-09-10T03:05:30Z
+timeline:
+  created: 2025-07-01
+  lastCommit: 2026-09-10
+  lastVersion: 2026-09-10
+  lastRelease: 2026-09-10
+  lastPrerelease: 
+popularity:
+  star: 51175
+  watcher: 109
+  fork: 7762
+  release: 837
+  contributor: 225
+  pullRequest: 2199
+  issue: 2860
+language:
+  Go: 16250361
+  PowerShell: 2000
+  Shell: 1861
+  Dockerfile: 921
+totalBytes: 16255143
+recent:
+  last30d:
+    since: 2026-08-11
+    release: 28
+    mergedPR: 50
+    openPR: 232
+    closedIssue: 311
+    openIssue: 75
+    commit: 287
+  last60d:
+    since: 2026-07-12
+    release: 89
+    mergedPR: 116
+    openPR: 340
+    closedIssue: 642
+    openIssue: 91
+    commit: 627
+  last90d:
+    since: 2026-06-12
+    release: 100
+    mergedPR: 178
+    openPR: 382
+    closedIssue: 844
+    openIssue: 91
+    commit: 882
+  last180d:
+    since: 2026-03-14
+    release: 100
+    mergedPR: 338
+    openPR: 520
+    closedIssue: 1699
+    openIssue: 99
+    commit: 1450
+  last360d:
+    since: 2025-09-15
+    release: 100
+    mergedPR: 719
+    openPR: 523
+    closedIssue: 2732
+    openIssue: 101
+    commit: 2837
+  last720d:
+    since: 2024-09-20
+    release: 100
+    mergedPR: 730
+    openPR: 523
+    closedIssue: 2759
+    openIssue: 101
+    commit: 3728
+total:
+  release: 837
+  mergedPR: 730
+  openPR: 523
+  closedIssue: 2759
+  openIssue: 101
+  commit: 3728
+---
+path: /home/runner/.x-repo/github.com/router-for-me/CLIProxyAPI
+collectedAt: 2026-09-10T03:05:34Z
+loc:
+  Go:
+    code: 413942
+    comments: 18273
+    blanks: 40370
+    files: 1287
+  Json:
+    code: 5035
+    comments: 0
+    blanks: 1
+    files: 6
+  C:
+    code: 2053
+    comments: 0
+    blanks: 211
+    files: 15
+  Rust:
+    code: 1992
+    comments: 0
+    blanks: 193
+    files: 15
+  Python:
+    code: 632
+    comments: 1
+    blanks: 46
+    files: 1
+  Yaml:
+    code: 135
+    comments: 745
+    blanks: 57
+    files: 3
+  CMake:
+    code: 105
+    comments: 0
+    blanks: 15
+    files: 15
+  Toml:
+    code: 90
+    comments: 0
+    blanks: 15
+    files: 15
+  Sh:
+    code: 43
+    comments: 10
+    blanks: 10
+    files: 1
+  Makefile:
+    code: 37
+    comments: 0
+    blanks: 11
+    files: 1
+  PowerShell:
+    code: 35
+    comments: 9
+    blanks: 9
+    files: 1
+  Dockerfile:
+    code: 20
+    comments: 0
+    blanks: 17
+    files: 1
+  Svg:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 5
+  Markdown:
+    code: 0
+    comments: 1255
+    blanks: 656
+    files: 15
+  Text:
+    code: 0
+    comments: 2049
+    blanks: 0
+    files: 2
+total:
+  code: 424430
+  comments: 22347
+  blanks: 41615
+  files: 1383
+---
+
+---
