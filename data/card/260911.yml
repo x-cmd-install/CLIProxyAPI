@@ -7,7 +7,7 @@ about:
   latestVersion: "v7.2.157"
   latestRelease: "v7.2.157"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:15:42Z
+  collectedAt: 2026-09-11T03:00:40Z
 timeline:
   created: 2025-07-01
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 51290
+  star: 51312
   watcher: 109
-  fork: 7780
+  fork: 7785
   release: 838
   contributor: 225
-  pullRequest: 2208
+  pullRequest: 2209
   issue: 2867
 language:
   Go: 16322522
@@ -32,61 +32,61 @@ recent:
   last30d:
     since: 2026-08-12
     release: 29
-    mergedPR: 49
+    mergedPR: 50
     openPR: 234
-    closedIssue: 317
-    openIssue: 67
+    closedIssue: 322
+    openIssue: 62
     commit: 295
   last60d:
     since: 2026-07-13
     release: 86
-    mergedPR: 109
+    mergedPR: 110
     openPR: 345
-    closedIssue: 647
-    openIssue: 83
+    closedIssue: 652
+    openIssue: 78
     commit: 635
   last90d:
     since: 2026-06-13
     release: 100
-    mergedPR: 172
+    mergedPR: 173
     openPR: 390
-    closedIssue: 853
-    openIssue: 83
+    closedIssue: 858
+    openIssue: 78
     commit: 890
   last180d:
     since: 2026-03-15
     release: 100
-    mergedPR: 338
+    mergedPR: 339
     openPR: 528
-    closedIssue: 1708
-    openIssue: 91
+    closedIssue: 1713
+    openIssue: 86
     commit: 1458
   last360d:
     since: 2025-09-16
     release: 100
-    mergedPR: 718
+    mergedPR: 719
     openPR: 531
-    closedIssue: 2747
-    openIssue: 93
+    closedIssue: 2752
+    openIssue: 88
     commit: 2845
   last720d:
     since: 2024-09-21
     release: 100
-    mergedPR: 730
+    mergedPR: 731
     openPR: 531
-    closedIssue: 2774
-    openIssue: 93
+    closedIssue: 2779
+    openIssue: 88
     commit: 3736
 total:
   release: 838
-  mergedPR: 730
+  mergedPR: 731
   openPR: 531
-  closedIssue: 2774
-  openIssue: 93
+  closedIssue: 2779
+  openIssue: 88
   commit: 3736
 ---
 path: /home/runner/.x-repo/github.com/router-for-me/CLIProxyAPI
-collectedAt: 2026-09-11T00:15:46Z
+collectedAt: 2026-09-11T03:00:46Z
 loc:
   Go:
     code: 415620
