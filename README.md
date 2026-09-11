@@ -12,6 +12,18 @@ Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Cla
 x install CLIProxyAPI
 ```
 
+## Code insight
+
+Total: **425,806** lines of code across **1326** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 415,620 | 18,325 | 40,522 | 1289 |
+| Json | 5,035 | 0 | 1 | 6 |
+| C | 2,053 | 0 | 211 | 15 |
+| Rust | 1,992 | 0 | 193 | 15 |
+| Python | 632 | 1 | 46 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/router-for-me/CLIProxyAPI>
@@ -22,6 +34,25 @@ x install CLIProxyAPI
 - **Latest**: `v7.2.157` (2026-09-10)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 11
+
+## Popularity
+
+- **Stars**: 51,290 · **Forks**: 7,780 · **Open issues**: 2,867 · **Contributors**: 225
+
+## Totals (cumulative)
+
+- **Releases**: 838 · **Merged PRs**: 730 · **Open PRs**: 531 · **Closed issues**: 2774 · **Open issues**: 93 · **Commits**: 3736
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 29 | 49 | 234 | 317 | 67 | 295 |
+| last60d | 2026-07-13 | 86 | 109 | 345 | 647 | 83 | 635 |
+| 90d | 2026-06-13 | 100 | 172 | 390 | 853 | 83 | 890 |
+| last180d | 2026-03-15 | 100 | 338 | 528 | 1708 | 91 | 1458 |
+| 360d | 2025-09-16 | 100 | 718 | 531 | 2747 | 93 | 2845 |
+| last720d | 2024-09-21 | 100 | 730 | 531 | 2774 | 93 | 3736 |
 
 ## Release assets
 
@@ -39,34 +70,6 @@ x install CLIProxyAPI
 | [CLIProxyAPI_7.2.157_windows_aarch64.zip](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.157/CLIProxyAPI_7.2.157_windows_aarch64.zip) | 18.7 MiB | `native/win/arm64` |
 | [CLIProxyAPI_7.2.157_windows_amd64.zip](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.157/CLIProxyAPI_7.2.157_windows_amd64.zip) | 20.9 MiB | `native/win/x64` |
 
-## Popularity
-
-- **Stars**: 51,265 · **Forks**: 7,781 · **Open issues**: 2,863 · **Contributors**: 225
-
-## Totals (cumulative)
-
-- **Releases**: 838 · **Merged PRs**: 730 · **Open PRs**: 531 · **Closed issues**: 2771 · **Open issues**: 92 · **Commits**: 3736
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 29 | 50 | 240 | 323 | 66 | 295 |
-| 90d | 2026-06-12 | 100 | 178 | 390 | 856 | 82 | 890 |
-| 360d | 2025-09-15 | 100 | 719 | 531 | 2744 | 92 | 2845 |
-
-## Code size
-
-Total: **425,806** lines of code across **1326** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 415,620 | 18,325 | 40,522 | 1289 |
-| Json | 5,035 | 0 | 1 | 6 |
-| C | 2,053 | 0 | 211 | 15 |
-| Rust | 1,992 | 0 | 193 | 15 |
-| Python | 632 | 1 | 46 | 1 |
-
 ## Improve this data
 
 Install metadata for CLIProxyAPI lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `CLIProxyAPI` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -76,4 +79,4 @@ Install metadata for CLIProxyAPI lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:00:21Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:15:51Z._

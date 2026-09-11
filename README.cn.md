@@ -12,6 +12,18 @@ Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Cla
 x install CLIProxyAPI
 ```
 
+## 代码洞察
+
+合计: **425,806** 行代码（覆盖前 5 种语言、共 **1326** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 415,620 | 18,325 | 40,522 | 1289 |
+| Json | 5,035 | 0 | 1 | 6 |
+| C | 2,053 | 0 | 211 | 15 |
+| Rust | 1,992 | 0 | 193 | 15 |
+| Python | 632 | 1 | 46 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/router-for-me/CLIProxyAPI>
@@ -22,6 +34,25 @@ x install CLIProxyAPI
 - **最新版本**: `v7.2.157` (2026-09-10)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 11 个
+
+## 流行度
+
+- **Star**: 51,290 · **Fork**: 7,780 · **开放 issue**: 2,867 · **贡献者**: 225
+
+## 累计统计
+
+- **发布数**: 838 · **已合并 PR**: 730 · **开放 PR**: 531 · **已关闭 issue**: 2774 · **开放 issue**: 93 · **提交数**: 3736
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 29 | 49 | 234 | 317 | 67 | 295 |
+| last60d | 2026-07-13 | 86 | 109 | 345 | 647 | 83 | 635 |
+| 90d | 2026-06-13 | 100 | 172 | 390 | 853 | 83 | 890 |
+| last180d | 2026-03-15 | 100 | 338 | 528 | 1708 | 91 | 1458 |
+| 360d | 2025-09-16 | 100 | 718 | 531 | 2747 | 93 | 2845 |
+| last720d | 2024-09-21 | 100 | 730 | 531 | 2774 | 93 | 3736 |
 
 ## Release 资产
 
@@ -39,34 +70,6 @@ x install CLIProxyAPI
 | [CLIProxyAPI_7.2.157_windows_aarch64.zip](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.157/CLIProxyAPI_7.2.157_windows_aarch64.zip) | 18.7 MiB | `native/win/arm64` |
 | [CLIProxyAPI_7.2.157_windows_amd64.zip](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.2.157/CLIProxyAPI_7.2.157_windows_amd64.zip) | 20.9 MiB | `native/win/x64` |
 
-## 流行度
-
-- **Star**: 51,265 · **Fork**: 7,781 · **开放 issue**: 2,863 · **贡献者**: 225
-
-## 累计统计
-
-- **发布数**: 838 · **已合并 PR**: 730 · **开放 PR**: 531 · **已关闭 issue**: 2771 · **开放 issue**: 92 · **提交数**: 3736
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 29 | 50 | 240 | 323 | 66 | 295 |
-| 90d | 2026-06-12 | 100 | 178 | 390 | 856 | 82 | 890 |
-| 360d | 2025-09-15 | 100 | 719 | 531 | 2744 | 92 | 2845 |
-
-## 代码规模
-
-合计: **425,806** 行代码（覆盖前 5 种语言、共 **1326** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 415,620 | 18,325 | 40,522 | 1289 |
-| Json | 5,035 | 0 | 1 | 6 |
-| C | 2,053 | 0 | 211 | 15 |
-| Rust | 1,992 | 0 | 193 | 15 |
-| Python | 632 | 1 | 46 | 1 |
-
 ## 改进这些数据
 
 CLIProxyAPI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `CLIProxyAPI` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -76,4 +79,4 @@ CLIProxyAPI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:00:21Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:15:52Z._
