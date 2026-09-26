@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1084,
       "digest": "sha256:dec7c011f9529d1ee9f736b7eccf84ed69db228df3189f64357a2aab49ad4f8c",
-      "download_count": 651,
+      "download_count": 2048,
       "created_at": "2026-09-24T19:12:03Z",
       "updated_at": "2026-09-24T19:12:03Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.17/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 20853485,
       "digest": "sha256:59bca8a23938216eab42380362424a109986df20c70d5f552948d3dfeb3c7820",
-      "download_count": 199,
+      "download_count": 799,
       "created_at": "2026-09-24T19:08:56Z",
       "updated_at": "2026-09-24T19:08:57Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.17/CLIProxyAPI_7.3.17_darwin_aarch64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 22577442,
       "digest": "sha256:37f6b9767d2820d96095f5a792041b6c11dcd7420023aa2c3fe1769aaeff6612",
-      "download_count": 29,
+      "download_count": 97,
       "created_at": "2026-09-24T19:10:43Z",
       "updated_at": "2026-09-24T19:10:52Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.17/CLIProxyAPI_7.3.17_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 20253330,
       "digest": "sha256:dba680dd16ab14d55faa93a91068d5634174a5db10866a42210e009680ea83cf",
-      "download_count": 14,
+      "download_count": 27,
       "created_at": "2026-09-24T19:08:36Z",
       "updated_at": "2026-09-24T19:08:37Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.17/CLIProxyAPI_7.3.17_freebsd_aarch64_no-plugin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 22597021,
       "digest": "sha256:a3a4874e529a889c3a6914bda4a6c5ef1c9537b0ce02c10bea11e420c3249773",
-      "download_count": 15,
+      "download_count": 34,
       "created_at": "2026-09-24T19:09:30Z",
       "updated_at": "2026-09-24T19:09:31Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.17/CLIProxyAPI_7.3.17_freebsd_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 20395933,
       "digest": "sha256:65a250f749222eee88d949e94efd88c9a9640728e01ae83e1353bac591487e3f",
-      "download_count": 99,
+      "download_count": 257,
       "created_at": "2026-09-24T19:08:49Z",
       "updated_at": "2026-09-24T19:08:50Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.17/CLIProxyAPI_7.3.17_linux_aarch64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 20303404,
       "digest": "sha256:dfbe5d162f654d71a0dc88071c91dc08f8d3b14e4f22957d25eefb009e430e11",
-      "download_count": 23,
+      "download_count": 49,
       "created_at": "2026-09-24T19:08:16Z",
       "updated_at": "2026-09-24T19:08:17Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.17/CLIProxyAPI_7.3.17_linux_aarch64_no-plugin.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 22621107,
       "digest": "sha256:1c9aef78dcd372775ccd5252bd0f383366c93c1fa552204df8ea9191fa130927",
-      "download_count": 935,
+      "download_count": 2760,
       "created_at": "2026-09-24T19:09:07Z",
       "updated_at": "2026-09-24T19:09:08Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.17/CLIProxyAPI_7.3.17_linux_amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 22518941,
       "digest": "sha256:aaecc113bad0f682546fa5ac62e8080adb646633e3f1da633cb5a742849fdaac",
-      "download_count": 38,
+      "download_count": 131,
       "created_at": "2026-09-24T19:08:21Z",
       "updated_at": "2026-09-24T19:08:22Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.17/CLIProxyAPI_7.3.17_linux_amd64_no-plugin.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 20429257,
       "digest": "sha256:99fb4d3bdfc8d2e2002f2fb4d2c0b5d724cefe60d0c1c110f7e00cd8a49ef0ad",
-      "download_count": 21,
+      "download_count": 88,
       "created_at": "2026-09-24T19:10:53Z",
       "updated_at": "2026-09-24T19:10:55Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.17/CLIProxyAPI_7.3.17_windows_aarch64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 22898148,
       "digest": "sha256:3a036376a7c04a8fe70d7335915aa79cc520f8fad72030ef8da43a64e50bc38b",
-      "download_count": 450,
+      "download_count": 1539,
       "created_at": "2026-09-24T19:09:19Z",
       "updated_at": "2026-09-24T19:09:20Z",
       "browser_download_url": "https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.17/CLIProxyAPI_7.3.17_windows_amd64.zip"
@@ -438,8 +438,8 @@
   "body": "<!-- cliproxyapi-linux-release-assets:start -->\n## Linux release assets\n\n- `CLIProxyAPI_<version>_linux_<arch>.tar.gz` is the default Linux build. It supports dynamic library plugins and is built against a GLIBC 2.17 baseline.\n- `CLIProxyAPI_<version>_linux_<arch>_no-plugin.tar.gz` is the portable Linux build for musl-based or older systems such as OpenWrt. It does not support dynamic library plugins.\n\n## FreeBSD release assets\n\n- `CLIProxyAPI_<version>_freebsd_aarch64_no-plugin.tar.gz` is the FreeBSD arm64 build. It is built without CGO and does not support dynamic library plugins.\n\n<!-- cliproxyapi-linux-release-assets:end -->\n\n## Changelog\n\n- feat(executor): enhance sanitizeXAIResponsesBody to utilize resolved thinking support (984aee8d)\n- fix(codex): send the ChatGPT routing hint native Codex sends (b97f71da)\n- refactor(executor): remove unsupported reasoning effort handling and update related tests (6d1d74b3)\n- Merge pull request #6092 from router-for-me/xai (93cccc6b)\n- Merge commit 'refs/pull/6090/head' of github.com:router-for-me/CLIProxyAPI into dev (0876e7f0)\n- fix(codex): use resolved base model for routing hint (dd3b657b)\n- fix(claude): align 2.1.280 fingerprint and thinking visibility (#6096) (f7c738da)\n- fix(translator): sanitize tool names for Claude and inject fallback schema for parameterless tools (75b854eb)\n- Enhance logging and improve thought signature handling (#6106) (8222e328)\n- fix(translator,auth): avoid synthetic bypass on unsigned text parts and reduce stream rewrite log noise (107d7f76)\n- Merge pull request #6107 from sususu98/fix/stream-rewrite-log-noise (75f2d018)\n- fix(executor,auth): support Session_id header in Antigravity replay and remove redundant stream chunk logging (c7f358d4)\n- fix(registry,cliproxy): set xai owned_by for Devin grok models and align Antigravity web search tests (377747b8)\n- fix(api): immediately close connections on stop and guard state access (759c57c2)\n- fix(registry): keep request context active until response body is read (74c1ebd3)\n- fix(interceptors): avoid cloning request body for read-only interceptors (c9a06ba6)\n- fix(session): avoid rescanning large payloads during session extraction (1dffddf4)\n- fix(meta): fix client id header and preserve subscription metadata (9bdde54b)\n\n\n## What's Changed\n* Enhance XAI response sanitization and reasoning support by @hkfires in https://github.com/router-for-me/CLIProxyAPI/pull/6092\n* fix(codex): send the ChatGPT routing hint native Codex sends by @SamGu-NRX in https://github.com/router-for-me/CLIProxyAPI/pull/6090\n* fix(claude): align 2.1.280 fingerprint and thinking visibility by @sususu98 in https://github.com/router-for-me/CLIProxyAPI/pull/6096\n* Enhance logging and improve thought signature handling by @hkfires in https://github.com/router-for-me/CLIProxyAPI/pull/6106\n* fix(auth,translator): reduce stream model rewrite log noise and prevent empty parts on unsigned text by @sususu98 in https://github.com/router-for-me/CLIProxyAPI/pull/6107\n\n## New Contributors\n* @SamGu-NRX made their first contribution in https://github.com/router-for-me/CLIProxyAPI/pull/6090\n\n**Full Changelog**: https://github.com/router-for-me/CLIProxyAPI/compare/v7.3.16...v7.3.17\n",
   "reactions": {
     "url": "https://api.github.com/repos/router-for-me/CLIProxyAPI/releases/395990468/reactions",
-    "total_count": 1,
-    "+1": 1,
+    "total_count": 3,
+    "+1": 3,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
