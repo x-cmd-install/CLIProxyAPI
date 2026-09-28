@@ -14,11 +14,11 @@ x install CLIProxyAPI
 
 ## 代码洞察
 
-合计: **515,658** 行代码（覆盖前 5 种语言、共 **1495** 个文件）。
+合计: **521,066** 行代码（覆盖前 5 种语言、共 **1510** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 503,144 | 21,819 | 48,761 | 1457 |
+| Go | 508,537 | 21,925 | 49,028 | 1472 |
 | Json | 7,343 | 0 | 0 | 7 |
 | C | 2,053 | 0 | 211 | 15 |
 | Rust | 1,992 | 0 | 193 | 15 |
@@ -31,44 +31,44 @@ x install CLIProxyAPI
 
 ## 发布
 
-- **最新版本**: `v7.3.19` (2026-09-26)
-- **最近提交**: 2026-09-26
+- **最新版本**: `v8.0.3` (2026-09-28)
+- **最近提交**: 2026-09-28
 - **Release 含资产**: 11 个
 
 ## 流行度
 
-- **Star**: 53,282 · **Fork**: 8,035 · **开放 issue**: 3,085 · **贡献者**: 238
+- **Star**: 53,353 · **Fork**: 8,046 · **开放 issue**: 3,093 · **贡献者**: 238
 
 ## 累计统计
 
-- **发布数**: 860 · **已合并 PR**: 770 · **开放 PR**: 568 · **已关闭 issue**: 3027 · **开放 issue**: 58 · **提交数**: 4071
+- **发布数**: 865 · **已合并 PR**: 771 · **开放 PR**: 573 · **已关闭 issue**: 3036 · **开放 issue**: 57 · **提交数**: 4087
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 35 | 61 | 214 | 372 | 28 | 465 |
-| last60d | 2026-07-29 | 75 | 113 | 316 | 707 | 50 | 789 |
-| 90d | 2026-06-29 | 100 | 176 | 417 | 1008 | 52 | 1061 |
-| last180d | 2026-03-31 | 100 | 329 | 557 | 1821 | 56 | 1654 |
-| 360d | 2025-10-02 | 100 | 731 | 568 | 2992 | 58 | 2978 |
-| last720d | 2024-10-07 | 100 | 770 | 568 | 3027 | 58 | 4071 |
+| 30d | 2026-08-29 | 39 | 60 | 219 | 374 | 26 | 401 |
+| last60d | 2026-07-30 | 75 | 112 | 320 | 707 | 48 | 711 |
+| 90d | 2026-06-30 | 100 | 177 | 422 | 1011 | 51 | 1055 |
+| last180d | 2026-04-01 | 100 | 327 | 562 | 1818 | 55 | 1606 |
+| 360d | 2025-10-03 | 100 | 732 | 573 | 3000 | 57 | 2956 |
+| last720d | 2024-10-08 | 100 | 771 | 573 | 3036 | 57 | 4087 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.19/checksums.txt) | 1.1 KiB | `other` |
-| [CLIProxyAPI_7.3.19_darwin_aarch64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.19/CLIProxyAPI_7.3.19_darwin_aarch64.tar.gz) | 19.9 MiB | `native/darwin/arm64` |
-| [CLIProxyAPI_7.3.19_darwin_amd64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.19/CLIProxyAPI_7.3.19_darwin_amd64.tar.gz) | 21.6 MiB | `native/darwin/x64` |
-| [CLIProxyAPI_7.3.19_freebsd_aarch64_no-plugin.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.19/CLIProxyAPI_7.3.19_freebsd_aarch64_no-plugin.tar.gz) | 19.3 MiB | `native/linux/arm64` |
-| [CLIProxyAPI_7.3.19_freebsd_amd64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.19/CLIProxyAPI_7.3.19_freebsd_amd64.tar.gz) | 21.6 MiB | `native/linux/x64` |
-| [CLIProxyAPI_7.3.19_linux_aarch64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.19/CLIProxyAPI_7.3.19_linux_aarch64.tar.gz) | 19.5 MiB | `native/linux/arm64` |
-| [CLIProxyAPI_7.3.19_linux_aarch64_no-plugin.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.19/CLIProxyAPI_7.3.19_linux_aarch64_no-plugin.tar.gz) | 19.4 MiB | `native/linux/arm64` |
-| [CLIProxyAPI_7.3.19_linux_amd64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.19/CLIProxyAPI_7.3.19_linux_amd64.tar.gz) | 21.6 MiB | `native/linux/x64` |
-| [CLIProxyAPI_7.3.19_linux_amd64_no-plugin.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.19/CLIProxyAPI_7.3.19_linux_amd64_no-plugin.tar.gz) | 21.5 MiB | `native/linux/x64` |
-| [CLIProxyAPI_7.3.19_windows_aarch64.zip](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.19/CLIProxyAPI_7.3.19_windows_aarch64.zip) | 19.5 MiB | `native/win/arm64` |
-| [CLIProxyAPI_7.3.19_windows_amd64.zip](https://github.com/router-for-me/CLIProxyAPI/releases/download/v7.3.19/CLIProxyAPI_7.3.19_windows_amd64.zip) | 21.9 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.3/checksums.txt) | 1.0 KiB | `other` |
+| [CLIProxyAPI_8.0.3_darwin_aarch64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.3/CLIProxyAPI_8.0.3_darwin_aarch64.tar.gz) | 20.0 MiB | `native/darwin/arm64` |
+| [CLIProxyAPI_8.0.3_darwin_amd64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.3/CLIProxyAPI_8.0.3_darwin_amd64.tar.gz) | 21.6 MiB | `native/darwin/x64` |
+| [CLIProxyAPI_8.0.3_freebsd_aarch64_no-plugin.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.3/CLIProxyAPI_8.0.3_freebsd_aarch64_no-plugin.tar.gz) | 19.4 MiB | `native/linux/arm64` |
+| [CLIProxyAPI_8.0.3_freebsd_amd64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.3/CLIProxyAPI_8.0.3_freebsd_amd64.tar.gz) | 21.6 MiB | `native/linux/x64` |
+| [CLIProxyAPI_8.0.3_linux_aarch64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.3/CLIProxyAPI_8.0.3_linux_aarch64.tar.gz) | 19.5 MiB | `native/linux/arm64` |
+| [CLIProxyAPI_8.0.3_linux_aarch64_no-plugin.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.3/CLIProxyAPI_8.0.3_linux_aarch64_no-plugin.tar.gz) | 19.4 MiB | `native/linux/arm64` |
+| [CLIProxyAPI_8.0.3_linux_amd64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.3/CLIProxyAPI_8.0.3_linux_amd64.tar.gz) | 21.7 MiB | `native/linux/x64` |
+| [CLIProxyAPI_8.0.3_linux_amd64_no-plugin.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.3/CLIProxyAPI_8.0.3_linux_amd64_no-plugin.tar.gz) | 21.6 MiB | `native/linux/x64` |
+| [CLIProxyAPI_8.0.3_windows_aarch64.zip](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.3/CLIProxyAPI_8.0.3_windows_aarch64.zip) | 19.6 MiB | `native/win/arm64` |
+| [CLIProxyAPI_8.0.3_windows_amd64.zip](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.3/CLIProxyAPI_8.0.3_windows_amd64.zip) | 21.9 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -79,4 +79,4 @@ CLIProxyAPI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260927.yml` · 2026-09-27T03:41:05Z._
+_数据快照: `data/card/260928.yml` · 2026-09-28T03:39:31Z._
