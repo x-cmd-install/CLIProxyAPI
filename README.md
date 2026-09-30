@@ -14,12 +14,12 @@ x install CLIProxyAPI
 
 ## Code insight
 
-Total: **523,097** lines of code across **1517** files in the top 5 languages.
+Total: **523,967** lines of code across **1521** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 510,569 | 21,994 | 49,193 | 1479 |
-| Json | 7,343 | 0 | 0 | 7 |
+| Go | 511,407 | 22,023 | 49,289 | 1483 |
+| Json | 7,375 | 0 | 0 | 7 |
 | C | 2,053 | 0 | 211 | 15 |
 | Rust | 1,992 | 0 | 193 | 15 |
 | Python | 644 | 1 | 46 | 1 |
@@ -32,27 +32,27 @@ Total: **523,097** lines of code across **1517** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v8.0.4` (2026-09-29)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-09-29
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 53,456 · **Forks**: 8,057 · **Open issues**: 3,103 · **Contributors**: 239
+- **Stars**: 53,582 · **Forks**: 8,070 · **Open issues**: 3,134 · **Contributors**: 239
 
 ## Totals (cumulative)
 
-- **Releases**: 866 · **Merged PRs**: 773 · **Open PRs**: 573 · **Closed issues**: 3039 · **Open issues**: 64 · **Commits**: 4097
+- **Releases**: 866 · **Merged PRs**: 773 · **Open PRs**: 580 · **Closed issues**: 3049 · **Open issues**: 85 · **Commits**: 4106
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 40 | 62 | 218 | 374 | 32 | 409 |
-| last60d | 2026-07-31 | 74 | 113 | 318 | 702 | 54 | 719 |
-| 90d | 2026-07-01 | 100 | 177 | 421 | 1008 | 58 | 1063 |
-| last180d | 2026-04-02 | 100 | 324 | 561 | 1812 | 62 | 1614 |
-| 360d | 2025-10-04 | 100 | 732 | 573 | 3002 | 64 | 2964 |
-| last720d | 2024-10-09 | 100 | 773 | 573 | 3039 | 64 | 4097 |
+| 30d | 2026-08-31 | 39 | 61 | 224 | 376 | 50 | 417 |
+| last60d | 2026-08-01 | 73 | 112 | 321 | 695 | 75 | 727 |
+| 90d | 2026-07-02 | 100 | 175 | 424 | 1014 | 79 | 1071 |
+| last180d | 2026-04-03 | 100 | 319 | 567 | 1810 | 83 | 1622 |
+| 360d | 2025-10-05 | 100 | 731 | 580 | 3011 | 85 | 2972 |
+| last720d | 2024-10-10 | 100 | 773 | 580 | 3049 | 85 | 4106 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for CLIProxyAPI lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T04:14:30Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T03:59:43Z._
