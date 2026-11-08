@@ -14,11 +14,11 @@ x install CLIProxyAPI
 
 ## Code insight
 
-Total: **726,404** lines of code across **2073** files in the top 5 languages.
+Total: **734,203** lines of code across **2107** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 711,232 | 29,249 | 61,971 | 2031 |
+| Go | 719,031 | 29,615 | 62,468 | 2065 |
 | Json | 9,949 | 0 | 0 | 11 |
 | C | 2,053 | 0 | 211 | 15 |
 | Rust | 1,992 | 0 | 193 | 15 |
@@ -31,44 +31,44 @@ Total: **726,404** lines of code across **2073** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v8.0.58` (2026-11-06)
-- **Last commit**: 2026-11-06
+- **Latest**: `v8.0.60` (2026-11-07)
+- **Last commit**: 2026-11-07
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 57,823 · **Forks**: 8,866 · **Open issues**: 3,644 · **Contributors**: 259
+- **Stars**: 57,910 · **Forks**: 8,885 · **Open issues**: 3,659 · **Contributors**: 259
 
 ## Totals (cumulative)
 
-- **Releases**: 920 · **Merged PRs**: 858 · **Open PRs**: 785 · **Closed issues**: 3595 · **Open issues**: 49 · **Commits**: 4742
+- **Releases**: 922 · **Merged PRs**: 862 · **Open PRs**: 786 · **Closed issues**: 3614 · **Open issues**: 45 · **Commits**: 4761
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 38 | 67 | 223 | 393 | 29 | 430 |
-| last60d | 2026-09-08 | 85 | 125 | 392 | 798 | 41 | 892 |
-| 90d | 2026-08-09 | 100 | 182 | 541 | 1175 | 44 | 1229 |
-| last180d | 2026-05-11 | 100 | 347 | 707 | 1952 | 46 | 1985 |
-| 360d | 2025-11-12 | 100 | 778 | 785 | 3468 | 49 | 3344 |
-| last720d | 2024-11-17 | 100 | 858 | 785 | 3595 | 49 | 4742 |
+| 30d | 2026-10-09 | 38 | 69 | 218 | 400 | 25 | 445 |
+| last60d | 2026-09-09 | 86 | 125 | 368 | 790 | 37 | 907 |
+| 90d | 2026-08-10 | 100 | 185 | 540 | 1183 | 40 | 1244 |
+| last180d | 2026-05-12 | 100 | 351 | 707 | 1955 | 42 | 2000 |
+| 360d | 2025-11-13 | 100 | 782 | 786 | 3482 | 45 | 3359 |
+| last720d | 2024-11-18 | 100 | 862 | 786 | 3614 | 45 | 4761 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.58/checksums.txt) | 1.1 KiB | `other` |
-| [CLIProxyAPI_8.0.58_darwin_aarch64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.58/CLIProxyAPI_8.0.58_darwin_aarch64.tar.gz) | 22.2 MiB | `native/darwin/arm64` |
-| [CLIProxyAPI_8.0.58_darwin_amd64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.58/CLIProxyAPI_8.0.58_darwin_amd64.tar.gz) | 24.1 MiB | `native/darwin/x64` |
-| [CLIProxyAPI_8.0.58_freebsd_aarch64_no-plugin.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.58/CLIProxyAPI_8.0.58_freebsd_aarch64_no-plugin.tar.gz) | 21.6 MiB | `native/linux/arm64` |
-| [CLIProxyAPI_8.0.58_freebsd_amd64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.58/CLIProxyAPI_8.0.58_freebsd_amd64.tar.gz) | 24.1 MiB | `native/linux/x64` |
-| [CLIProxyAPI_8.0.58_linux_aarch64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.58/CLIProxyAPI_8.0.58_linux_aarch64.tar.gz) | 21.7 MiB | `native/linux/arm64` |
-| [CLIProxyAPI_8.0.58_linux_aarch64_no-plugin.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.58/CLIProxyAPI_8.0.58_linux_aarch64_no-plugin.tar.gz) | 21.6 MiB | `native/linux/arm64` |
-| [CLIProxyAPI_8.0.58_linux_amd64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.58/CLIProxyAPI_8.0.58_linux_amd64.tar.gz) | 24.1 MiB | `native/linux/x64` |
-| [CLIProxyAPI_8.0.58_linux_amd64_no-plugin.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.58/CLIProxyAPI_8.0.58_linux_amd64_no-plugin.tar.gz) | 24.0 MiB | `native/linux/x64` |
-| [CLIProxyAPI_8.0.58_windows_aarch64.zip](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.58/CLIProxyAPI_8.0.58_windows_aarch64.zip) | 21.7 MiB | `native/win/arm64` |
-| [CLIProxyAPI_8.0.58_windows_amd64.zip](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.58/CLIProxyAPI_8.0.58_windows_amd64.zip) | 24.4 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.60/checksums.txt) | 1.1 KiB | `other` |
+| [CLIProxyAPI_8.0.60_darwin_aarch64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.60/CLIProxyAPI_8.0.60_darwin_aarch64.tar.gz) | 22.3 MiB | `native/darwin/arm64` |
+| [CLIProxyAPI_8.0.60_darwin_amd64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.60/CLIProxyAPI_8.0.60_darwin_amd64.tar.gz) | 24.1 MiB | `native/darwin/x64` |
+| [CLIProxyAPI_8.0.60_freebsd_aarch64_no-plugin.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.60/CLIProxyAPI_8.0.60_freebsd_aarch64_no-plugin.tar.gz) | 21.6 MiB | `native/linux/arm64` |
+| [CLIProxyAPI_8.0.60_freebsd_amd64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.60/CLIProxyAPI_8.0.60_freebsd_amd64.tar.gz) | 24.2 MiB | `native/linux/x64` |
+| [CLIProxyAPI_8.0.60_linux_aarch64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.60/CLIProxyAPI_8.0.60_linux_aarch64.tar.gz) | 21.8 MiB | `native/linux/arm64` |
+| [CLIProxyAPI_8.0.60_linux_aarch64_no-plugin.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.60/CLIProxyAPI_8.0.60_linux_aarch64_no-plugin.tar.gz) | 21.7 MiB | `native/linux/arm64` |
+| [CLIProxyAPI_8.0.60_linux_amd64.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.60/CLIProxyAPI_8.0.60_linux_amd64.tar.gz) | 24.2 MiB | `native/linux/x64` |
+| [CLIProxyAPI_8.0.60_linux_amd64_no-plugin.tar.gz](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.60/CLIProxyAPI_8.0.60_linux_amd64_no-plugin.tar.gz) | 24.1 MiB | `native/linux/x64` |
+| [CLIProxyAPI_8.0.60_windows_aarch64.zip](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.60/CLIProxyAPI_8.0.60_windows_aarch64.zip) | 21.8 MiB | `native/win/arm64` |
+| [CLIProxyAPI_8.0.60_windows_amd64.zip](https://github.com/router-for-me/CLIProxyAPI/releases/download/v8.0.60/CLIProxyAPI_8.0.60_windows_amd64.zip) | 24.5 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -79,4 +79,4 @@ Install metadata for CLIProxyAPI lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T04:40:03Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T04:27:42Z._
