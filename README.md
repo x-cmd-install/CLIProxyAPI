@@ -37,22 +37,22 @@ Total: **774,518** lines of code across **2191** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 58,422 · **Forks**: 8,961 · **Open issues**: 3,725 · **Contributors**: 263
+- **Stars**: 58,507 · **Forks**: 8,981 · **Open issues**: 3,741 · **Contributors**: 263
 
 ## Totals (cumulative)
 
-- **Releases**: 931 · **Merged PRs**: 873 · **Open PRs**: 823 · **Closed issues**: 3682 · **Open issues**: 43 · **Commits**: 4854
+- **Releases**: 931 · **Merged PRs**: 873 · **Open PRs**: 834 · **Closed issues**: 3685 · **Open issues**: 56 · **Commits**: 4854
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 42 | 72 | 231 | 405 | 20 | 426 |
-| last60d | 2026-09-14 | 89 | 120 | 383 | 796 | 35 | 825 |
-| 90d | 2026-08-15 | 100 | 188 | 561 | 1193 | 38 | 1239 |
-| last180d | 2026-05-17 | 100 | 357 | 739 | 1981 | 40 | 2040 |
-| 360d | 2025-11-18 | 100 | 789 | 823 | 3532 | 43 | 3397 |
-| last720d | 2024-11-23 | 100 | 873 | 823 | 3682 | 43 | 4854 |
+| 30d | 2026-10-15 | 40 | 70 | 239 | 392 | 30 | 426 |
+| last60d | 2026-09-15 | 87 | 120 | 390 | 788 | 47 | 825 |
+| 90d | 2026-08-16 | 100 | 187 | 572 | 1186 | 51 | 1239 |
+| last180d | 2026-05-18 | 100 | 353 | 751 | 1965 | 53 | 2040 |
+| 360d | 2025-11-19 | 100 | 786 | 834 | 3529 | 56 | 3397 |
+| last720d | 2024-11-24 | 100 | 873 | 834 | 3685 | 56 | 4854 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for CLIProxyAPI lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T05:04:24Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T04:57:17Z._
